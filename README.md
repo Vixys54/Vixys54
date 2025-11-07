@@ -7,23 +7,13 @@
 ## Redes Sociais
 - 💼 [Kwai](https://k.kwai.com/u/@Y2cMusic/hAN0sCHI) 
 
-<div class="card" style="display: flex;
-    gap: 20px;
-    justify-content: center;
-    flex-wrap: wrap;
-    border: 1px solid #ddd;
-    border-radius: 8px;
-    padding: 10px;
-    width: 200px;
-    text-align: center;
-    background-color: #f9f9f9;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    margin-top: 10px;
-    font-weight: bold;
-    color: #000;
-  ">
+<div class="card">
     <a href="https://www.youtube.com/@Vixys" target="_blank">
-      <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="width: 50px; height: 50px; border-radius: 50%; border: 1px solid #ddd; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); ">
+      <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="display: flex; width: 50px; height: 50px; border-radius: 50%; border: 1px solid #ddd; background-color: #f9f9f9; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap; margin-top: 10px;
+    font-weight: bold;
+    color: #000; text-align: center; ">
     </a>
     <p>Youtube: Vixys</p>
 </div>
