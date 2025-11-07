@@ -10,4 +10,4 @@
 
 ## 🛠️ Tecnologias & Ferramentas
 ```text
-Python | JavaScript | Node.js | Git | Docker | Linux | APIs | Automação
+Python | JavaScript | Node.js | Git 
