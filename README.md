@@ -1,3 +1,36 @@
+<style>
+  .social-container {
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    flex-wrap: wrap;
+  }
+  .card {
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    padding: 10px;
+    width: 200px;
+    text-align: center;
+    background-color: #f9f9f9;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+  }
+  .card p {
+    margin-top: 10px;
+    font-weight: bold;
+    color: #000;
+  }
+  @media (prefers-color-scheme: dark) {
+    .card {
+      border: 1px solid #444;
+      background-color: #2d2d2d;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .card p {
+      color: #fff;
+    }
+  }
+</style>
+
 # Olá! 👋 Eu sou Vixys54
 
 **Desenvolvedor apaixonado por tecnologia**
