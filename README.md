@@ -6,12 +6,10 @@
 
 ## Redes Sociais
 - 💼 [Kwai](https://k.kwai.com/u/@Y2cMusic/hAN0sCHI) 
-- ✉️ Email: `seu.email@exemplo.com` 
-- 🐦 Twitter/X: [@seuhandle](https://twitter.com/seuhandle) 
 
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center; background-color: #f9f9f9;">
-  <a href="https://www.youtube.com/@seu-canal" target="_blank">
-    <img src="URL_DA_IMAGEM_DE_PERFIL" alt="Nome do Seu Canal" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
+  <a href="https://www.youtube.com/@Vixys" target="_blank">
+    <img src="URL_DA_IMAGEM_DE_PERFIL" alt="Vixys" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
   </a>
   <p style="margin-top: 10px; font-weight: bold;">Nome do Seu Canal</p>
 </div>
