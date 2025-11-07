@@ -1,16 +1,13 @@
-## Hi there 👋
+# Olá! 👋 Eu sou Vixys54
 
-<!--
-**Vixys54/Vixys54** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Desenvolvedor apaixonado por tecnologia**
 
-Here are some ideas to get you started:
+> "Código é poesia em movimento."  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Sobre mim
+- 🌱 Aprendendo programação
+- 🌍 De Petrolina 🌵, Pernambuco — onde o sol brilha forte e o código flui melhor! ☀️
+
+## 🛠️ Tecnologias & Ferramentas
+```text
+Python | JavaScript | Node.js | Git | Docker | Linux | APIs | Automação
