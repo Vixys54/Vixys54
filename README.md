@@ -5,7 +5,16 @@
 > "Código é poesia em movimento."  
 
 ## Redes Sociais
-- https://www.youtube.com/@Vixys
+- 💼 [Kwai](https://k.kwai.com/u/@Y2cMusic/hAN0sCHI) *(adicione o link real)*
+- ✉️ Email: `seu.email@exemplo.com` *(substitua)*
+- 🐦 Twitter/X: [@seuhandle](https://twitter.com/seuhandle) *(opcional)*
+
+<div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center; background-color: #f9f9f9;">
+  <a href="https://www.youtube.com/@seu-canal" target="_blank">
+    <img src="URL_DA_IMAGEM_DE_PERFIL" alt="Nome do Seu Canal" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
+  </a>
+  <p style="margin-top: 10px; font-weight: bold;">Nome do Seu Canal</p>
+</div>
 
 ## 🚀 Sobre mim
 - 🌱 Aprendendo programação
