@@ -27,7 +27,7 @@
     </a>
     <p>Vixys</p>
 
-    <style>
+<style>
   @media (prefers-color-scheme: dark) {
     .card {
       border: 1px solid #444;
