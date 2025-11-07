@@ -23,7 +23,7 @@
     color: #000;
   ">
     <a href="https://www.youtube.com/@Vixys" target="_blank">
-      <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
+      <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="width: 100px; height: 100px; border-radius: 50%; border: 1px solid #ddd; background-color: #f9f9f9; ">
     </a>
     <p>Youtube: Vixys</p>
 </div>
