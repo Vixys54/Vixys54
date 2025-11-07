@@ -4,6 +4,9 @@
 
 > "Código é poesia em movimento."  
 
+## Redes Sociais
+- https://www.youtube.com/@Vixys
+
 ## 🚀 Sobre mim
 - 🌱 Aprendendo programação
 - 🌍 De Petrolina 🌵, Pernambuco — onde o sol brilha forte e o código flui melhor! ☀️
