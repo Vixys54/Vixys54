@@ -1,18 +1,3 @@
-
-  
- <style>
-  @media (prefers-color-scheme: dark) {
-    .card {
-      border: 1px solid #444;
-      background-color: #2d2d2d;
-      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
-    }
-    .card p {
-      color: #fff;
-    }
-  }
-</style>
-
 # Olá! 👋 Eu sou Vixys54
 
 **Desenvolvedor apaixonado por tecnologia**
@@ -41,6 +26,19 @@
       <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
     </a>
     <p>Vixys</p>
+
+    <style>
+  @media (prefers-color-scheme: dark) {
+    .card {
+      border: 1px solid #444;
+      background-color: #2d2d2d;
+      box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+    }
+    .card p {
+      color: #fff;
+    }
+  }
+</style>
 </div>
 
 ## 🚀 Sobre mim
