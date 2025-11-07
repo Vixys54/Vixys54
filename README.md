@@ -7,11 +7,13 @@
 ## Redes Sociais
 - 💼 [Kwai](https://k.kwai.com/u/@Y2cMusic/hAN0sCHI) 
 
+<div style="display: flex; gap: 20px; justify-content: center; flex-wrap: wrap;">
 <div style="border: 1px solid #ddd; border-radius: 8px; padding: 10px; width: 200px; text-align: center; background-color: #f9f9f9;">
   <a href="https://www.youtube.com/@Vixys" target="_blank">
     <img src="https://yt3.googleusercontent.com/W42BcJw0hngJMFS8pz-ZV0yFWIJzNxUBKBA69UYna9beqg6GgVl4gInJQKVM0iQPyutinj-Q=s160-c-k-c0x00ffffff-no-rj" alt="Vixys" style="width: 100px; height: 100px; border-radius: 50%; border: 2px solid #FF0000;">
   </a>
   <p style="margin-top: 10px; font-weight: bold;">Vixys</p>
+</div>
 </div>
 
 ## 🚀 Sobre mim
