@@ -1,5 +1,7 @@
 # Olá! 👋 Eu sou Vixys54
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
+
 **Desenvolvedor apaixonado por tecnologia**
 
 > "Código é poesia em movimento."  
