@@ -1,6 +1,6 @@
-# Olá! 👋 Eu sou Vixys54
 
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!👋+Eu+sou+Vixys54;✨+✨+✨)](https://git.io/typing-svg)
+
+# [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!👋+Eu+sou+Vixys54;✨+✨+✨)](https://git.io/typing-svg)
 
 **Desenvolvedor apaixonado por tecnologia**
 
