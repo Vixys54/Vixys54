@@ -1,5 +1,6 @@
 
-# ![Typing SVG](https://vixys.netlify.app/svg?lines=Olá!+Eu+sou+Vixys54;Desenvolvedor+Vibe+Coder) 
+# [![Typing SVG](https://vixys.netlify.app/svg?lines=Ol%C3%A1+%E2%9D%96+Eu+sou+Vixys54%7CDesenvolvedor+que+come+batatinhas+fritas)](https://vixys.netlify.app/)
+
 
 **Desenvolvedor apaixonado por tecnologia**
 
