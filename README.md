@@ -4,7 +4,7 @@
 
 **Desenvolvedor apaixonado por tecnologia**
 
-> "Código é poesia em movimento."  
+> "Código é como poesia"  
 
 ## Redes Sociais
 - 💼 [Kwai](https://k.kwai.com/u/@Y2cMusic/hAN0sCHI) 
