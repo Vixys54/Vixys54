@@ -1,7 +1,7 @@
 
 
 # [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Olá!👋+Eu+sou+Vixys54;✨+✨+✨)](https://git.io/typing-svg)
-# ![Typing SVG](https://vixys.netlify.app/website/glitch-name/svg?lines=Olá!+Eu+sou+Vixys54;Desenvolvedor+Full+Stack)
+# [![Typing SVG](https://vixys.netlify.app/website/glitch-name/svg?lines=Olá!+Eu+sou+Vixys54;Desenvolvedor+Full+Stack)
 
 **Desenvolvedor apaixonado por tecnologia**
 
